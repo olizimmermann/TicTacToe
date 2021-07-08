@@ -4,7 +4,7 @@ Tic Tac Toe Game Bot, developed with Python and Tkinter. The bot learns with eve
 Just try it:
 
 ```
-python tiktaktoe_AI3.1.py
+python tictactoe_AI3.1.py
 ```
 
 ![image](https://user-images.githubusercontent.com/73298827/124898898-e5bcf880-dfdf-11eb-9bd1-f51d4121cbbb.png)
