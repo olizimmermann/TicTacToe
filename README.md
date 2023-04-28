@@ -1,5 +1,8 @@
 # TicTacToe - fun project.
 
+[![justforfunnoreally.dev badge](https://img.shields.io/badge/justforfunnoreally-dev-9ff)](https://justforfunnoreally.dev)
+
+
 Tic Tac Toe Game Bot, developed with Python and Tkinter. The bot learns with every move.
 Just try it:
 
